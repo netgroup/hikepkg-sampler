@@ -1,2 +1,3 @@
-# hikepkg-template
-template for HIKe packages
+# sampler HIKe package
+
+select a packet every N packet for a flow 
